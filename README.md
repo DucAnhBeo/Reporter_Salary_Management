@@ -7,6 +7,6 @@ Khai báo lớp Bảng Tính Công có quan hệ kết hợp với lớp Phóng 
 
 Viết chương trình trong ngôn ngữ JAVA thực hiện các yêu cầu sau:
 
-Nhập danh sách phóng viên. In ra danh sách phóng viên đã có
-Nhập danh sách kiểu bài viết. In ra danh sách kiểu bài đã có
-Lập Bảng tính công cho phóng viên bằng cách nhập các kiểu bài mà mỗi phóng viên đã viết cùng số lượng tương ứng và in danh sách ra màn hình.
+1.Nhập danh sách phóng viên. In ra danh sách phóng viên đã có
+2. Nhập danh sách kiểu bài viết. In ra danh sách kiểu bài đã có
+3. Lập Bảng tính công cho phóng viên bằng cách nhập các kiểu bài mà mỗi phóng viên đã viết cùng số lượng tương ứng và in danh sách ra màn hình.
